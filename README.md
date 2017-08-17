@@ -1,6 +1,6 @@
 ## Strip player countries
 
-This is a short app to pull golfers and their from the feed, so that we can create a dictionary for use in the studio app.
+This is a short app to pull golfers and their countries from the feed, so that we can create a dictionary for use in the studio app.
 
 It reads the file from PGA with fetch.
 
