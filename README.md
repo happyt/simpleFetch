@@ -5,7 +5,6 @@ This is a short app to pull golfers and their countries from a feed, so that we 
 It reads the file with fetch.
 
 start1.js
-
 It outputs a file which contains the XML lines needed for the dictionary. These will then be cut and pasted into the production file. I thought I'd try using the xml-js library. This didn't produce the XML output that I was expecting, so I left it as a cut & paste job. 
 
 start.js
